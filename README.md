@@ -148,7 +148,7 @@ const jenil = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JenilRevaliya&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=0096c7&icon_color=22d3ee&text_color=ffffff&ring_color=00aaad" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=JenilRevaliya&theme=radical&hide_border=true&background=0a0a0a&ring=0096c7&fire=22d3ee&currStreakLabel=00aaad&sideLabels=ffffff&dates=ffffff" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=JenilRevaliya&theme=radical&hide_border=true&background=0a0a0a&ring=0096c7&fire=22d3ee&currStreakLabel=00aaad&sideLabels=ffffff&dates=ffffff" />
 </div>
 
 <div align="center">
@@ -191,7 +191,19 @@ const jenil = {
 
 <br/>
 
+## 🐍 Contribution Snake
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+<br/>
 
 ## 💭 Current Focus
 
