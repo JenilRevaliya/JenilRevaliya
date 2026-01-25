@@ -1,12 +1,7 @@
 <div align="center">
 
-<!-- Custom Animated Header with Website Blue Theme -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0096c7,50:00aaad,100:22d3ee&height=200&section=header&animation=twinkling&fontAlignY=35"/>
-
-<br/>
-
-<!-- Animated "Hi, I'm Jenil" with Cool Font -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=0096C7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jenil+%F0%9F%91%8B;Full-Stack+Developer;System+Builder" alt="Typing SVG"/>
+<!-- Custom Animated Header with "Hi, I'm Jenil" on Wave Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0096c7,50:00aaad,100:22d3ee&height=250&section=header&text=Hi,%20I'm%20Jenil%20👋&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20System%20Builder&descSize=20&descAlignY=55&descAlign=50"/>
 
 <br/>
 
@@ -57,11 +52,6 @@
 </td>
 <td align="center" width="33%">
 <img src="./img6.jpg" width="250" height="250" style="border-radius: 10px; object-fit: cover;"/>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="3">
-<img src="./img7.jpg" width="250" height="250" style="border-radius: 10px; object-fit: cover;"/>
 </td>
 </tr>
 </table>
@@ -201,19 +191,7 @@ const jenil = {
 
 <br/>
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JenilRevaliya/JenilRevaliya/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JenilRevaliya/JenilRevaliya/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JenilRevaliya/JenilRevaliya/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<br/>
 
 ## 💭 Current Focus
 
