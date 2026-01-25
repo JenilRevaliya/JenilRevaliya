@@ -1,30 +1,70 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jenil%20Soni&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A277FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+Clean+%26+Scalable+Systems;Concept-First+%7C+Code-Second" alt="Typing SVG"/>
+<!-- Custom Animated Header with Website Blue Theme -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0096c7,50:00aaad,100:22d3ee&height=200&section=header&animation=twinkling&fontAlignY=35"/>
 
 <br/>
 
-<!-- Social Links -->
+<!-- Animated "Hi, I'm Jenil" with Cool Font -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=0096C7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jenil+%F0%9F%91%8B;Full-Stack+Developer;System+Builder" alt="Typing SVG"/>
+
+<br/>
+
+<!-- Social Links with Blue Theme -->
 <p align="center">
   <a href="https://jenilsoni.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-0096c7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/JenilRevaliya">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-00aaad?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://linkedin.com/in/jenil-revaliya">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-22d3ee?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:jenilrevaliya@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-0096c7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
+
+<br/>
+
+## 📸 Gallery
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="./img1.jpg" width="250" height="250" style="border-radius: 10px; object-fit: cover;"/>
+</td>
+<td align="center" width="33%">
+<img src="./img2.jpg" width="250" height="250" style="border-radius: 10px; object-fit: cover;"/>
+</td>
+<td align="center" width="33%">
+<img src="./img3.jpg" width="250" height="250" style="border-radius: 10px; object-fit: cover;"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="./img4.jpg" width="250" height="250" style="border-radius: 10px; object-fit: cover;"/>
+</td>
+<td align="center" width="33%">
+<img src="./img5.jpg" width="250" height="250" style="border-radius: 10px; object-fit: cover;"/>
+</td>
+<td align="center" width="33%">
+<img src="./img6.jpg" width="250" height="250" style="border-radius: 10px; object-fit: cover;"/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">
+<img src="./img7.jpg" width="250" height="250" style="border-radius: 10px; object-fit: cover;"/>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -48,23 +88,23 @@ const jenil = {
 
 <br/>
 
-## � Tech Arsenal
+## 💻 Tech Arsenal
 
 <div align="center">
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,js,python,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,python,cpp,html,css&theme=dark" />
 </p>
 
 ### Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,firebase,git,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,firebase,git,androidstudio&theme=dark" />
 </p>
 
 ### Databases & More
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,tensorflow,figma,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,tensorflow,figma,vercel,vscode&theme=dark" />
 </p>
 
 </div>
@@ -78,30 +118,30 @@ const jenil = {
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JenilRevaliya&repo=SplitWise-Clone&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a277ff&icon_color=61afef" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JenilRevaliya&repo=SplitWise-Clone&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=0096c7&icon_color=22d3ee&text_color=ffffff" />
 
 **💰 Expense Splitter**  
 `Kotlin` `MVVM` `Room` `Android`
 
 </td>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JenilRevaliya&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a277ff&icon_color=61afef" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JenilRevaliya&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=0096c7&icon_color=22d3ee&text_color=ffffff" />
 
-**� Portfolio Site**  
+**🌐 Portfolio Site**  
 `React` `Next.js` `TailwindCSS`
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JenilRevaliya&repo=Neuro-Racer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a277ff&icon_color=61afef" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JenilRevaliya&repo=Neuro-Racer&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=0096c7&icon_color=22d3ee&text_color=ffffff" />
 
 **🎮 ML Racing Game**  
 `Python` `TensorFlow` `Pygame`
 
 </td>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JenilRevaliya&repo=DSA-Practice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a277ff&icon_color=61afef" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JenilRevaliya&repo=DSA-Practice&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=0096c7&icon_color=22d3ee&text_color=ffffff" />
 
 **📚 DSA Solutions**  
 `C++` `Java` `Algorithms`
@@ -117,13 +157,13 @@ const jenil = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JenilRevaliya&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a277ff&icon_color=61afef&text_color=c9d1d9&ring_color=a277ff" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=JenilRevaliya&theme=radical&hide_border=true&background=0d1117&ring=a277ff&fire=e06c75&currStreakLabel=61afef" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JenilRevaliya&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=0096c7&icon_color=22d3ee&text_color=ffffff&ring_color=00aaad" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=JenilRevaliya&theme=radical&hide_border=true&background=0a0a0a&ring=0096c7&fire=22d3ee&currStreakLabel=00aaad&sideLabels=ffffff&dates=ffffff" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenilRevaliya&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a277ff&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=JenilRevaliya&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a277ff&line=61afef&point=e06c75" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenilRevaliya&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=0096c7&text_color=ffffff" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=JenilRevaliya&theme=tokyo-night&hide_border=true&bg_color=0a0a0a&color=0096c7&line=22d3ee&point=00aaad" />
 </div>
 
 <br/>
@@ -145,17 +185,17 @@ const jenil = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JenilRevaliya&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=JenilRevaliya&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=0096c7&icon_color=22d3ee&text_color=00aaad" />
 
 </div>
 
 <br/>
 
-## � Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JenilRevaliya&bg_color=0d1117&color=a277ff&line=61afef&point=e06c75&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JenilRevaliya&bg_color=0a0a0a&color=0096c7&line=22d3ee&point=00aaad&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -204,22 +244,15 @@ mindmap
 
 <br/>
 
-## 🎵 Spotify Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem-jenilrevaliya.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
-</div>
-
-<br/>
-
 <div align="center">
 
 ### 💡 *"Strong foundations. Clear code. Real impact."*
 
-<img src="https://komarev.com/ghpvc/?username=JenilRevaliya&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=JenilRevaliya&color=0096c7&style=for-the-badge&label=Profile+Views"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<br/><br/>
+
+<!-- Bottom Wave with Blue Theme -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:00aaad,100:0096c7&height=120&section=footer"/>
 
 </div>
