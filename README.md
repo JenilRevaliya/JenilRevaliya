@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Custom Animated Header with "Hi, I'm Jenil" on Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0096c7,50:00aaad,100:22d3ee&height=250&section=header&text=Hi,%20I'm%20Jenil%20👋&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20System%20Builder&descSize=20&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0096c7,50:00aaad,100:22d3ee&height=250&section=header&text=Hi,%20I'm%20Jenil%20&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20|%20System%20Builder&descSize=20&descAlignY=55&descAlign=50"/>
 
 <br/>
 
@@ -27,7 +27,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Gallery" width="25" height="25" /> Gallery
+## <span style="color: #0096c7;">#</span> Gallery
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="About" width="25" height="25" /> About
+## <span style="color: #00aaad;">#</span> About
 
 ```typescript
 const jenil = {
@@ -65,7 +65,7 @@ const jenil = {
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Tech" width="25" height="25" /> Tech Arsenal
+## <span style="color: #22d3ee;">#</span> Tech Arsenal
 
 <div align="center">
 
@@ -88,7 +88,7 @@ const jenil = {
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Projects" width="25" height="25" /> Featured Projects
+## <span style="color: #0096c7;">#</span> Featured Projects
 
 <div align="center">
 
@@ -131,7 +131,7 @@ const jenil = {
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Stats" width="25" height="25" /> GitHub Stats
+## <span style="color: #00aaad;">#</span> GitHub Stats
 
 <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=JenilRevaliya&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=0096c7&icon_color=22d3ee&text_color=ffffff&ring_color=00aaad" />
@@ -140,7 +140,7 @@ const jenil = {
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Philosophy" width="25" height="25" /> Coding Philosophy
+## <span style="color: #22d3ee;">#</span> Coding Philosophy
 
 <div align="center">
 
@@ -153,7 +153,7 @@ const jenil = {
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Achievements" width="25" height="25" /> Achievements
+## <span style="color: #0096c7;">#</span> Achievements
 
 <div align="center">
 
@@ -163,7 +163,7 @@ const jenil = {
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Graph" width="25" height="25" /> Contribution Graph
+## <span style="color: #00aaad;">#</span> Contribution Graph
 
 <div align="center">
 
@@ -173,7 +173,7 @@ const jenil = {
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> Contribution Snake
+## <span style="color: #22d3ee;">#</span> Contribution Snake
 
 <div align="center">
 
@@ -187,7 +187,7 @@ const jenil = {
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Focus" width="25" height="25" /> Current Focus
+## <span style="color: #0096c7;">#</span> Current Focus
 
 <div align="center">
 
@@ -225,6 +225,6 @@ mindmap
 <br/><br/>
 
 <!-- Bottom Wave with Blue Theme -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:00aaad,100:0096c7&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:00aaad,100:0096c7&height=150&section=footer&animation=twinkling"/>
 
 </div>
