@@ -27,7 +27,7 @@
 
 <br/>
 
-## <span style="color: #0096c7; font-size: 30px;">#</span> Gallery
+<h2><font color="#0096c7" size="6">#</font> Gallery</h2>
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 
 <br/>
 
-## <span style="color: #0096c7; font-size: 30px;">#</span> About
+<h2><font color="#0096c7" size="6">#</font> About</h2>
 
 ```typescript
 const jenil = {
@@ -65,7 +65,7 @@ const jenil = {
 
 <br/>
 
-## <span style="color: #0096c7; font-size: 30px;">#</span> Tech Arsenal
+<h2><font color="#0096c7" size="6">#</font> Tech Arsenal</h2>
 
 <div align="center">
 
@@ -88,7 +88,7 @@ const jenil = {
 
 <br/>
 
-## <span style="color: #0096c7; font-size: 30px;">#</span> Featured Projects
+<h2><font color="#0096c7" size="6">#</font> Featured Projects</h2>
 
 <div align="center">
 
@@ -131,7 +131,7 @@ const jenil = {
 
 <br/>
 
-## <span style="color: #0096c7; font-size: 30px;">#</span> GitHub Stats
+<h2><font color="#0096c7" size="6">#</font> GitHub Stats</h2>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JenilRevaliya&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=0096c7&icon_color=22d3ee&text_color=ffffff&ring_color=00aaad" />
@@ -140,7 +140,7 @@ const jenil = {
 
 <br/>
 
-## <span style="color: #0096c7; font-size: 30px;">#</span> Coding Philosophy
+<h2><font color="#0096c7" size="6">#</font> Coding Philosophy</h2>
 
 <div align="center">
 
@@ -153,7 +153,7 @@ const jenil = {
 
 <br/>
 
-## <span style="color: #0096c7; font-size: 30px;">#</span> Achievements
+<h2><font color="#0096c7" size="6">#</font> Achievements</h2>
 
 <div align="center">
 
@@ -163,7 +163,7 @@ const jenil = {
 
 <br/>
 
-## <span style="color: #0096c7; font-size: 30px;">#</span> Contribution Graph
+<h2><font color="#0096c7" size="6">#</font> Contribution Graph</h2>
 
 <div align="center">
 
@@ -173,7 +173,7 @@ const jenil = {
 
 <br/>
 
-## <span style="color: #0096c7; font-size: 30px;">#</span> Contribution Snake
+<h2><font color="#0096c7" size="6">#</font> Contribution Snake</h2>
 
 <div align="center">
 
@@ -187,11 +187,12 @@ const jenil = {
 
 <br/>
 
-## <span style="color: #0096c7; font-size: 30px;">#</span> Current Focus
+<h2><font color="#0096c7" size="6">#</font> Current Focus</h2>
 
 <div align="center">
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#0096c7', 'primaryTextColor':'#fff', 'primaryBorderColor':'#22d3ee', 'lineColor':'#00aaad', 'secondaryColor':'#112025', 'tertiaryColor':'#0a0a0a'}}}%%
 mindmap
   root((Jenil Soni))
     Mobile Dev
