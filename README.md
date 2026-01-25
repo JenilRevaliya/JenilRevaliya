@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- Custom Animated Header with "Hi, I'm Jenil" on Wave Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0096c7,50:00aaad,100:22d3ee&height=250&section=header&text=Hi,%20I'm%20Jenil%20&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20|%20System%20Builder&descSize=20&descAlignY=55&descAlign=50"/>
 
 <br/>
 
-<!-- Social Links with Blue Theme -->
 <p align="center">
   <a href="https://jenilsoni.vercel.app">
     <img src="https://img.shields.io/badge/Website-0096c7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
@@ -22,26 +20,6 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-</div>
-
-<br/>
-
-<h2><font color="#0096c7" size="6">#</font> Gallery</h2>
-
-<div align="center">
-
-<p>
-  <img src="./custom_stats.png" width="30%" style="border-radius: 10px; object-fit: cover;"/>
-  <img src="./img2.jpg" width="30%" style="border-radius: 10px; object-fit: cover;"/>
-  <img src="./img3.jpg" width="30%" style="border-radius: 10px; object-fit: cover;"/>
-</p>
-
-<p>
-  <img src="./img4.jpg" width="30%" style="border-radius: 10px; object-fit: cover;"/>
-  <img src="./img5.jpg" width="30%" style="border-radius: 10px; object-fit: cover;"/>
-  <img src="./img6.jpg" width="30%" style="border-radius: 10px; object-fit: cover;"/>
-</p>
 
 </div>
 
@@ -65,25 +43,11 @@ const jenil = {
 
 <br/>
 
-<h2><font color="#0096c7" size="6">#</font> Tech Arsenal</h2>
+<h2><font color="#0096c7" size="6">#</font> GitHub Stats</h2>
 
 <div align="center">
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,js,python,cpp,html,css&theme=dark" />
-</p>
-
-### Frameworks & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,firebase,git,androidstudio&theme=dark" />
-</p>
-
-### Databases & More
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,tensorflow,figma,vercel,vscode&theme=dark" />
-</p>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JenilRevaliya&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=0096c7&icon_color=22d3ee&text_color=ffffff&ring_color=00aaad" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenilRevaliya&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=0096c7&text_color=ffffff" />
 </div>
 
 <br/>
@@ -131,33 +95,54 @@ const jenil = {
 
 <br/>
 
-<h2><font color="#0096c7" size="6">#</font> GitHub Stats</h2>
+<h2><font color="#0096c7" size="6">#</font> Tech Arsenal</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JenilRevaliya&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=0096c7&icon_color=22d3ee&text_color=ffffff&ring_color=00aaad" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenilRevaliya&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=0096c7&text_color=ffffff" />
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,python,cpp,html,css&theme=dark" />
+</p>
+
+### Frameworks & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,firebase,git,androidstudio&theme=dark" />
+</p>
+
+### Databases & More
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,tensorflow,figma,vercel,vscode&theme=dark" />
+</p>
+
 </div>
 
 <br/>
 
-<h2><font color="#0096c7" size="6">#</font> Coding Philosophy</h2>
+<h2><font color="#0096c7" size="6">#</font> Gallery</h2>
 
 <div align="center">
 
-| 🎯 | 🏗️ | 🔨 | 🧠 |
-|:---:|:---:|:---:|:---:|
-| **Understand First** | **Strong Foundations** | **Build to Learn** | **Visualize Concepts** |
-| Why before how | Basics before abstractions | Practice > Theory | Clarity through visuals |
+<p>
+  <img src="./custom_stats.png" width="30%" style="border-radius: 10px; object-fit: cover;"/>
+  <img src="./img2.jpg" width="30%" style="border-radius: 10px; object-fit: cover;"/>
+  <img src="./img3.jpg" width="30%" style="border-radius: 10px; object-fit: cover;"/>
+</p>
+
+<p>
+  <img src="./img4.jpg" width="30%" style="border-radius: 10px; object-fit: cover;"/>
+  <img src="./img5.jpg" width="30%" style="border-radius: 10px; object-fit: cover;"/>
+  <img src="./img6.jpg" width="30%" style="border-radius: 10px; object-fit: cover;"/>
+</p>
 
 </div>
 
 <br/>
 
-<h2><font color="#0096c7" size="6">#</font> Achievements</h2>
+<h2><font color="#0096c7" size="6">#</font> GitHub Metrics</h2>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JenilRevaliya&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=0096c7&icon_color=22d3ee&text_color=00aaad" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JenilRevaliya&theme=tokyonight" width="100%"/>
 
 </div>
 
@@ -173,15 +158,24 @@ const jenil = {
 
 <br/>
 
-<h2><font color="#0096c7" size="6">#</font> Contribution Snake</h2>
+<h2><font color="#0096c7" size="6">#</font> Achievements</h2>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<img src="https://github-profile-trophy.vercel.app/?username=JenilRevaliya&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=0096c7&icon_color=22d3ee&text_color=00aaad" />
+
+</div>
+
+<br/>
+
+<h2><font color="#0096c7" size="6">#</font> Coding Philosophy</h2>
+
+<div align="center">
+
+| 🎯 | 🏗️ | 🔨 | 🧠 |
+|:---:|:---:|:---:|:---:|
+| **Understand First** | **Strong Foundations** | **Build to Learn** | **Visualize Concepts** |
+| Why before how | Basics before abstractions | Practice > Theory | Clarity through visuals |
 
 </div>
 
@@ -217,6 +211,40 @@ mindmap
 
 <br/>
 
+<h2><font color="#0096c7" size="6">#</font> Contribution Snake</h2>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+<br/>
+
+<h2><font color="#0096c7" size="6">#</font> Recent Activity</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JenilRevaliya&bg_color=0a0a0a&color=0096c7&line=22d3ee&point=00aaad&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+<h2><font color="#0096c7" size="6">#</font> Dev Humor</h2>
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&bgColor=0a0a0a&qColor=0096c7&aColor=22d3ee" alt="Jokes Card" />
+
+</div>
+
+<br/>
+
 <div align="center">
 
 <p align="center">
@@ -227,7 +255,6 @@ mindmap
 
 <br/><br/>
 
-<!-- Bottom Wave with Blue Theme -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:00aaad,100:0096c7&height=150&section=footer&animation=twinkling"/>
 
 </div>
