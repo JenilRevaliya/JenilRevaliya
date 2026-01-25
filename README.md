@@ -135,7 +135,7 @@ const jenil = {
 
 <p>
   <img src="./custom_stats.png" width="30%" style="border-radius: 10px; object-fit: cover;"/>
-  <img src="./img2.jpg" width="30%" style="border-radius: 10px; object-fit: cover;"/>
+  <img src="./img2.png" width="30%" style="border-radius: 10px; object-fit: cover;"/>
   <img src="./img3.jpg" width="30%" style="border-radius: 10px; object-fit: cover;"/>
 </p>
 
