@@ -169,16 +169,6 @@ const jenil = {
 
 <br/>
 
-<h2><font color="#0096c7" size="6">#</font> Achievements</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JenilRevaliya&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=0096c7&icon_color=22d3ee&text_color=00aaad" />
-
-</div>
-
-<br/>
-
 <h2><font color="#0096c7" size="6">#</font> Coding Philosophy</h2>
 
 <div align="center">
