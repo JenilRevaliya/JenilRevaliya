@@ -8,7 +8,7 @@
 <!-- Social Links with Blue Theme -->
 <p align="center">
   <a href="https://jenilsoni.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-0096c7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-0096c7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
   <a href="https://github.com/JenilRevaliya">
     <img src="https://img.shields.io/badge/GitHub-00aaad?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -31,30 +31,17 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="./custom_stats.png" style="border-radius: 10px; object-fit: cover;"/>
-</td>
-<td align="center" width="33%">
-<img src="./img2.jpg" style="border-radius: 10px; object-fit: cover;"/>
-</td>
-<td align="center" width="33%">
-<img src="./img3.jpg" style="border-radius: 10px; object-fit: cover;"/>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="./img4.jpg" style="border-radius: 10px; object-fit: cover;"/>
-</td>
-<td align="center" width="33%">
-<img src="./img5.jpg" style="border-radius: 10px; object-fit: cover;"/>
-</td>
-<td align="center" width="33%">
-<img src="./img6.jpg" style="border-radius: 10px; object-fit: cover;"/>
-</td>
-</tr>
-</table>
+<p>
+  <img src="./custom_stats.png" width="30%" style="border-radius: 10px; object-fit: cover;"/>
+  <img src="./img2.jpg" width="30%" style="border-radius: 10px; object-fit: cover;"/>
+  <img src="./img3.jpg" width="30%" style="border-radius: 10px; object-fit: cover;"/>
+</p>
+
+<p>
+  <img src="./img4.jpg" width="30%" style="border-radius: 10px; object-fit: cover;"/>
+  <img src="./img5.jpg" width="30%" style="border-radius: 10px; object-fit: cover;"/>
+  <img src="./img6.jpg" width="30%" style="border-radius: 10px; object-fit: cover;"/>
+</p>
 
 </div>
 
@@ -148,8 +135,8 @@ const jenil = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JenilRevaliya&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=0096c7&icon_color=22d3ee&text_color=ffffff&ring_color=00aaad" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenilRevaliya&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=0096c7&text_color=ffffff" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=JenilRevaliya&theme=tokyo-night&hide_border=true&bg_color=0a0a0a&color=0096c7&line=22d3ee&point=00aaad" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenilRevaliya&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=0096c7&text_color=ffffff" />
 </div>
 
 <br/>
