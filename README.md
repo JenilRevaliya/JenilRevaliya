@@ -192,9 +192,9 @@ const jenil = {
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#0096c7', 'primaryTextColor':'#fff', 'primaryBorderColor':'#22d3ee', 'lineColor':'#00aaad', 'secondaryColor':'#112025', 'tertiaryColor':'#0a0a0a'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#e0f2fe', 'primaryTextColor':'#0c4a6e', 'primaryBorderColor':'#0096c7', 'lineColor':'#22d3ee', 'secondaryColor':'#cffafe', 'tertiaryColor':'#f0f9ff'}}}%%
 mindmap
-  root((Jenil Soni))
+  root((Me))
     Mobile Dev
       Android Apps
       Clean Architecture
@@ -219,7 +219,9 @@ mindmap
 
 <div align="center">
 
-### 💡 *"Strong foundations. Clear code. Real impact."*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Error+404.+Limits+not+found" alt="Error Message"/>
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=JenilRevaliya&color=0096c7&style=for-the-badge&label=Profile+Views"/>
 
