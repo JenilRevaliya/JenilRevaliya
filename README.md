@@ -247,11 +247,10 @@ mindmap
 
 <div align="center">
 
+<h2></h2>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Error+404.+Limits+not+found" alt="Error Message"/>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=JenilRevaliya&color=0096c7&style=for-the-badge&label=Profile+Views"/>
 
 <br/><br/>
 
