@@ -148,7 +148,7 @@ const jenil = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JenilRevaliya&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=0096c7&icon_color=22d3ee&text_color=ffffff&ring_color=00aaad" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JenilRevaliya&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=0096c7&icon_color=22d3ee&text_color=ffffff&count_private=true&include_all_commits=true" />
+  <img width="49%" src="./custom_stats.png" alt="Custom Stats"/>
 </div>
 
 <div align="center">
