@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Jenil+Revaliya+%F0%9F%91%8B;Building+Systems+That+Matter;From+Concepts+to+Clean+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Jenil+Soni+%F0%9F%91%8B;Building+Systems+That+Matter;Clean+Code+%7C+Clear+Concepts" alt="Typing SVG" />
 
-### 💡 *Turning structured thinking into scalable solutions*
+### 💡 *Structured thinking → Scalable solutions*
 
-[![GitHub followers](https://img.shields.io/github/followers/JenilRevaliya?style=for-the-badge&logo=github&logoColor=white&labelColor=24273a&color=a277ff)](https://github.com/JenilRevaliya)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-jenilsoni.vercel.app-a277ff?style=for-the-badge&logoColor=white&labelColor=24273a)](https://jenilsoni.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=24273a&color=a277ff)](https://github.com/JenilRevaliya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=24273a&color=61afef)](https://linkedin.com/in/jenil-revaliya)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=24273a&color=e06c75)](mailto:jenilrevaliya@example.com)
 
 </div>
 
@@ -15,17 +15,16 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Science student** with a passion for building **real-world systems** that solve actual problems. My approach is rooted in **structured thinking** and **strong fundamentals**—I believe in understanding the *why* before diving into the *how*.
+**CS Student** building real-world systems with **structured thinking** and **strong fundamentals**.
 
-Coming from an **exam-oriented academic background**, I've developed the discipline to master core concepts deeply. But I don't stop at theory—I translate that knowledge into **practical, production-ready applications**. Whether it's crafting intuitive Android apps, designing responsive web interfaces, or exploring the visual side of Machine Learning, I focus on **clarity over shortcuts**.
+I understand the *why* before the *how*. Disciplined learner. Practical builder. Whether it's Android apps, web interfaces, or ML visualizations—**clarity over shortcuts**, always.
 
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Jenil Revaliya"
+        self.name = "Jenil Soni"
         self.role = "Full-Stack Developer & CS Student"
         self.mindset = "Concept-first, clarity-driven"
-        self.current_focus = ["Android", "Web", "ML Visualization", "System Design"]
     
     def build(self, idea):
         return self.understand(idea) + self.design(idea) + self.execute(idea)
@@ -40,17 +39,17 @@ class Developer:
 <td width="50%">
 
 ### 📱 **Mobile Development**
-- Building **Android apps** with clean architecture
-- Focusing on **UI/UX** that feels intuitive
-- Implementing **complex logic** with maintainability in mind
+- Android apps with clean architecture
+- Intuitive UI/UX design
+- Maintainable, scalable logic
 
 </td>
 <td width="50%">
 
 ### 🌐 **Web Technologies**
-- Crafting **responsive interfaces** with HTML, CSS, JS
-- Exploring modern **frameworks** (React, Next.js)
-- Building **full-stack applications** from scratch
+- Responsive interfaces (HTML, CSS, JS)
+- Modern frameworks (React, Next.js)
+- Full-stack applications
 
 </td>
 </tr>
@@ -58,17 +57,17 @@ class Developer:
 <td width="50%">
 
 ### 🧠 **CS Fundamentals**
-- Deep-diving into **Operating Systems**
-- Mastering **Computer Networks**
-- Strengthening **Data Structures & Algorithms**
+- Operating Systems
+- Computer Networks
+- Data Structures & Algorithms
 
 </td>
 <td width="50%">
 
 ### 🤖 **Machine Learning**
-- Exploring ML concepts **visually and practically**
-- Building projects that **demonstrate understanding**
-- Focusing on **real applications**, not just theory
+- Visual ML concepts
+- Practical implementations
+- Real-world applications
 
 </td>
 </tr>
@@ -122,27 +121,23 @@ class Developer:
 ### 💰 **SplitWise Clone**
 *Android Expense Splitting App*
 
-A finance management app that simplifies **group expense tracking** and **bill splitting**.
+Group expense tracking & bill splitting made simple.
 
-**Tech Stack:**
-- `Kotlin` `Android SDK` `Room Database`
-- `MVVM Architecture` `LiveData`
+**Stack:** `Kotlin` `Android SDK` `Room` `MVVM`
 
-**Purpose:** Build a production-ready app with clean architecture and real-world utility.
+**Goal:** Production-ready app with clean architecture.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎮 **Neuro Racer**
-*Game + ML Concept Project*
+*Game + ML Integration*
 
-An interactive racing game integrated with **machine learning** for adaptive difficulty.
+Racing game with ML-powered adaptive difficulty.
 
-**Tech Stack:**
-- `Python` `TensorFlow` `Pygame`
-- `Neural Networks` `Reinforcement Learning`
+**Stack:** `Python` `TensorFlow` `Pygame` `RL`
 
-**Purpose:** Visualize ML concepts through engaging gameplay mechanics.
+**Goal:** Visualize ML through interactive gameplay.
 
 </td>
 </tr>
@@ -150,29 +145,25 @@ An interactive racing game integrated with **machine learning** for adaptive dif
 <td width="50%" valign="top">
 
 ### 🌐 **Portfolio Website**
-*Personal Brand & Showcase*
+*[jenilsoni.vercel.app](https://jenilsoni.vercel.app)*
 
-A modern, responsive portfolio built from scratch to showcase projects and skills.
+Modern, responsive portfolio showcasing projects.
 
-**Tech Stack:**
-- `React` `Next.js` `TailwindCSS`
-- `Vercel` `Responsive Design`
+**Stack:** `React` `Next.js` `TailwindCSS` `Vercel`
 
-**Purpose:** Create a professional online presence with clean UI/UX.
+**Goal:** Professional online presence with clean UI.
 
 </td>
 <td width="50%" valign="top">
 
 ### 📚 **Academic Projects**
-*Logic-Driven Solutions*
+*Algorithm & System Design*
 
-Various projects focusing on **algorithms**, **data structures**, and **system design**.
+Projects focused on DSA and core CS concepts.
 
-**Tech Stack:**
-- `C++` `Java` `Python`
-- `DSA` `OS Concepts` `Networking`
+**Stack:** `C++` `Java` `Python` `OS` `Networks`
 
-**Purpose:** Strengthen fundamentals through practical implementation.
+**Goal:** Strengthen fundamentals through practice.
 
 </td>
 </tr>
@@ -203,21 +194,21 @@ Various projects focusing on **algorithms**, **data structures**, and **system d
 
 ```yaml
 approach:
-  thinking: "Structured and systematic"
-  code_style: "Clean, readable, maintainable"
-  methodology: "Concept-first, implementation-second"
+  thinking: "Structured & systematic"
+  code: "Clean, readable, maintainable"
+  method: "Concept-first, then code"
   
 principles:
-  - "Deep understanding over quick fixes"
-  - "Clarity over cleverness"
-  - "Build to learn, learn to build"
-  - "Say no to bad design early"
+  - Deep understanding > quick fixes
+  - Clarity > cleverness
+  - Build to learn
+  - Say no to bad design early
   
 workflow:
-  1. Understand the problem thoroughly
-  2. Design with fundamentals in mind
-  3. Implement with clean architecture
-  4. Test, refine, and document
+  1. Understand the problem
+  2. Design with fundamentals
+  3. Implement cleanly
+  4. Test & refine
 ```
 
 ---
@@ -228,14 +219,14 @@ workflow:
 
 | Principle | Approach |
 |-----------|----------|
-| 🎯 **Deep Understanding** | I don't memorize—I understand the *why* behind every concept |
-| 🎨 **Visualization-Driven** | Complex ideas become clear when visualized properly |
-| 🏗️ **Strong Foundations** | Master the basics before jumping to abstractions |
-| 🔨 **Build to Learn** | The best way to understand something is to build it |
+| 🎯 **Deep Understanding** | Understand the *why*, not just the *what* |
+| 🎨 **Visualization-Driven** | Complex ideas → Visual clarity |
+| 🏗️ **Strong Foundations** | Master basics before abstractions |
+| 🔨 **Build to Learn** | Best way to learn = build it |
 
 </div>
 
-> *"You can't build a skyscraper on a weak foundation. Master the fundamentals, and everything else follows."*
+> *"Strong foundations. Everything else follows."*
 
 ---
 
@@ -243,10 +234,10 @@ workflow:
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/🌐_Website-jenilsoni.vercel.app-a277ff?style=for-the-badge&logoColor=white)](https://jenilsoni.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-JenilRevaliya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JenilRevaliya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jenil_Revaliya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jenil-revaliya)
-[![Email](https://img.shields.io/badge/Email-jenilrevaliya%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenilrevaliya@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-a277ff?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jenil_Soni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jenil-revaliya)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenilrevaliya@example.com)
 
 </div>
 
@@ -254,10 +245,10 @@ workflow:
 
 <div align="center">
 
-### 💡 *"Code with clarity. Build with purpose. Learn with discipline."*
+### 💡 *"Clear code. Strong fundamentals. Real impact."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JenilRevaliya&color=a277ff&style=for-the-badge&label=Profile+Views)
 
-**⭐ From [JenilRevaliya](https://github.com/JenilRevaliya)**
+**⭐ From [Jenil Soni](https://github.com/JenilRevaliya)**
 
 </div>
