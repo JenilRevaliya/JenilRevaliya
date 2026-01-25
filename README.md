@@ -27,7 +27,7 @@
 
 <br/>
 
-## <span style="color: #0096c7;">#</span> Gallery
+## <span style="color: #0096c7; font-size: 30px;">#</span> Gallery
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 
 <br/>
 
-## <span style="color: #00aaad;">#</span> About
+## <span style="color: #0096c7; font-size: 30px;">#</span> About
 
 ```typescript
 const jenil = {
@@ -65,7 +65,7 @@ const jenil = {
 
 <br/>
 
-## <span style="color: #22d3ee;">#</span> Tech Arsenal
+## <span style="color: #0096c7; font-size: 30px;">#</span> Tech Arsenal
 
 <div align="center">
 
@@ -88,7 +88,7 @@ const jenil = {
 
 <br/>
 
-## <span style="color: #0096c7;">#</span> Featured Projects
+## <span style="color: #0096c7; font-size: 30px;">#</span> Featured Projects
 
 <div align="center">
 
@@ -131,16 +131,16 @@ const jenil = {
 
 <br/>
 
-## <span style="color: #00aaad;">#</span> GitHub Stats
+## <span style="color: #0096c7; font-size: 30px;">#</span> GitHub Stats
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=JenilRevaliya&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=0096c7&icon_color=22d3ee&text_color=ffffff&ring_color=00aaad" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenilRevaliya&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=0096c7&text_color=ffffff" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JenilRevaliya&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=0096c7&icon_color=22d3ee&text_color=ffffff&ring_color=00aaad" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenilRevaliya&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=0096c7&text_color=ffffff" />
 </div>
 
 <br/>
 
-## <span style="color: #22d3ee;">#</span> Coding Philosophy
+## <span style="color: #0096c7; font-size: 30px;">#</span> Coding Philosophy
 
 <div align="center">
 
@@ -153,7 +153,7 @@ const jenil = {
 
 <br/>
 
-## <span style="color: #0096c7;">#</span> Achievements
+## <span style="color: #0096c7; font-size: 30px;">#</span> Achievements
 
 <div align="center">
 
@@ -163,7 +163,7 @@ const jenil = {
 
 <br/>
 
-## <span style="color: #00aaad;">#</span> Contribution Graph
+## <span style="color: #0096c7; font-size: 30px;">#</span> Contribution Graph
 
 <div align="center">
 
@@ -173,7 +173,7 @@ const jenil = {
 
 <br/>
 
-## <span style="color: #22d3ee;">#</span> Contribution Snake
+## <span style="color: #0096c7; font-size: 30px;">#</span> Contribution Snake
 
 <div align="center">
 
@@ -187,7 +187,7 @@ const jenil = {
 
 <br/>
 
-## <span style="color: #0096c7;">#</span> Current Focus
+## <span style="color: #0096c7; font-size: 30px;">#</span> Current Focus
 
 <div align="center">
 
