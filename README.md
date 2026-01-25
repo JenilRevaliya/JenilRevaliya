@@ -8,7 +8,7 @@
 <!-- Social Links with Blue Theme -->
 <p align="center">
   <a href="https://jenilsoni.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-0096c7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-0096c7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
   <a href="https://github.com/JenilRevaliya">
     <img src="https://img.shields.io/badge/GitHub-00aaad?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -27,7 +27,7 @@
 
 <br/>
 
-## 📸 Gallery
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Gallery" width="25" height="25" /> Gallery
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 
 <br/>
 
-## 🎯 About
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="About" width="25" height="25" /> About
 
 ```typescript
 const jenil = {
@@ -65,7 +65,7 @@ const jenil = {
 
 <br/>
 
-## 💻 Tech Arsenal
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Tech" width="25" height="25" /> Tech Arsenal
 
 <div align="center">
 
@@ -88,7 +88,7 @@ const jenil = {
 
 <br/>
 
-## 🚀 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Projects" width="25" height="25" /> Featured Projects
 
 <div align="center">
 
@@ -131,17 +131,16 @@ const jenil = {
 
 <br/>
 
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Stats" width="25" height="25" /> GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JenilRevaliya&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=0096c7&icon_color=22d3ee&text_color=ffffff&ring_color=00aaad" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=JenilRevaliya&theme=tokyo-night&hide_border=true&bg_color=0a0a0a&color=0096c7&line=22d3ee&point=00aaad" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenilRevaliya&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=0096c7&text_color=ffffff" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=JenilRevaliya&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=0096c7&icon_color=22d3ee&text_color=ffffff&ring_color=00aaad" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenilRevaliya&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=0096c7&text_color=ffffff" />
 </div>
 
 <br/>
 
-## 🎨 Coding Philosophy
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Philosophy" width="25" height="25" /> Coding Philosophy
 
 <div align="center">
 
@@ -154,7 +153,7 @@ const jenil = {
 
 <br/>
 
-## 🏆 Achievements
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Achievements" width="25" height="25" /> Achievements
 
 <div align="center">
 
@@ -164,7 +163,7 @@ const jenil = {
 
 <br/>
 
-## 📈 Contribution Graph
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Graph" width="25" height="25" /> Contribution Graph
 
 <div align="center">
 
@@ -174,7 +173,7 @@ const jenil = {
 
 <br/>
 
-## 🐍 Contribution Snake
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> Contribution Snake
 
 <div align="center">
 
@@ -188,7 +187,7 @@ const jenil = {
 
 <br/>
 
-## 💭 Current Focus
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Focus" width="25" height="25" /> Current Focus
 
 <div align="center">
 
