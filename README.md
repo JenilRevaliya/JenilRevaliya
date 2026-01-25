@@ -250,7 +250,7 @@ mindmap
 
 <div align="center">
 
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&bgColor=0a0a0a&qColor=ffffff&aColor=0096c7&textColor=22d3ee&borderColor=0096c7" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?theme=gruvbox&hideBorder&bgColor=0a0a0a" alt="Jokes Card" />
 
 </div>
 
@@ -261,9 +261,8 @@ mindmap
 <h2></h2>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Error+404.+Limits+not+found" alt="Error Message"/>
-
-<h2></h2>
 </p>
+<h2></h2>
 <br/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:00aaad,100:0096c7&height=150&section=footer&animation=twinkling"/>
 
