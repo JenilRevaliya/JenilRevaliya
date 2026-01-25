@@ -34,7 +34,7 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="./img1.jpg" width="250" height="250" style="border-radius: 10px; object-fit: cover;"/>
+<img src="./custom_stats.png" width="250" height="250" style="border-radius: 10px; object-fit: cover;"/>
 </td>
 <td align="center" width="33%">
 <img src="./img2.jpg" width="250" height="250" style="border-radius: 10px; object-fit: cover;"/>
@@ -148,10 +148,6 @@ const jenil = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JenilRevaliya&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=0096c7&icon_color=22d3ee&text_color=ffffff&ring_color=00aaad" />
-  <img width="49%" src="./custom_stats.png" alt="Custom Stats"/>
-</div>
-
-<div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenilRevaliya&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=0096c7&text_color=ffffff" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=JenilRevaliya&theme=tokyo-night&hide_border=true&bg_color=0a0a0a&color=0096c7&line=22d3ee&point=00aaad" />
 </div>
